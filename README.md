@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Meena 👋
 
-<!--
-**Meenapotlacheruvu/Meenapotlacheruvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics graduate specializing in SQL and Python-based business analysis.
 
-Here are some ideas to get you started:
+## Skills
+- SQL (MySQL)
+- Python (Pandas, Matplotlib)
+- Data Cleaning & KPI Analysis
+- Data Visualization
+- Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Customer Revenue KPI Analysis (SQL)
+- Sales Analytics Project (Python + SQL)
+
+I focus on transforming raw data into actionable business insights.
